@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Plum (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=87 103 111
+ActiveTitle=183 191 159
+AppWorkSpace=139 156 165
+Background=191 215 191
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=87 103 111
+ButtonHilight=39 47 55
+ButtonLight=87 103 111
+ButtonShadow=135 159 167
+ButtonText=255 255 255
+GradientActiveTitle=95 123 71
+GradientInactiveTitle=87 103 135
+GrayText=135 159 167
+Hilight=255 127 127
+HilightText=39 47 55
+HotTrackingColor=183 191 159
+InactiveBorder=87 103 111
+InactiveTitle=135 159 167
+InactiveTitleText=87 103 111
+InfoText=207 255 167
+InfoWindow=42 51 55
+Menu=87 103 111
+MenuBar=87 103 111
+MenuHilight=255 127 127
+MenuText=255 255 255
+Scrollbar=39 47 55
+TitleText=0 0 0
+Window=87 103 111
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

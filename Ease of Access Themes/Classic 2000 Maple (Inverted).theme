@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Maple (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=25 39 81
+ActiveTitle=127 255 255
+AppWorkSpace=57 89 185
+Background=255 255 255
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=25 39 81
+ButtonHilight=13 19 40
+ButtonLight=25 39 81
+ButtonShadow=57 89 185
+ButtonText=255 255 255
+GradientActiveTitle=63 99 199
+GradientInactiveTitle=31 55 119
+GrayText=57 89 185
+Hilight=57 89 185
+HilightText=255 255 255
+HotTrackingColor=57 89 185
+InactiveBorder=25 39 81
+InactiveTitle=57 89 185
+InactiveTitleText=13 19 40
+InfoText=255 255 255
+InfoWindow=0 0 0
+Menu=25 39 81
+MenuBar=25 39 81
+MenuHilight=57 89 185
+MenuText=255 255 255
+Scrollbar=13 19 40
+TitleText=0 0 0
+Window=25 39 81
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

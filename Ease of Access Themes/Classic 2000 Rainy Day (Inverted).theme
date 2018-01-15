@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Rainy Day (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=124 102 78
+ActiveTitle=176 154 130
+AppWorkSpace=127 127 127
+Background=255 255 255
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=124 102 78
+ButtonHilight=62 51 38
+ButtonLight=124 102 78
+ButtonShadow=176 154 130
+ButtonText=255 255 255
+GradientActiveTitle=127 75 47
+GradientInactiveTitle=79 67 47
+GrayText=176 154 130
+Hilight=176 154 130
+HilightText=0 0 0
+HotTrackingColor=176 154 130
+InactiveBorder=124 102 78
+InactiveTitle=127 127 127
+InactiveTitleText=62 51 38
+InfoText=255 255 255
+InfoWindow=0 0 0
+Menu=124 102 78
+MenuBar=124 102 78
+MenuHilight=176 154 130
+MenuText=255 255 255
+Scrollbar=62 51 38
+TitleText=0 0 0
+Window=124 102 78
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

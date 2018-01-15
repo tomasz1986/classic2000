@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Desert (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=42 51 68
+ActiveTitle=255 127 127
+AppWorkSpace=93 114 151
+Background=93 114 151
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=42 51 68
+ButtonHilight=21 25 34
+ButtonLight=42 51 68
+ButtonShadow=93 114 151
+ButtonText=255 255 255
+GradientActiveTitle=123 66 85
+GradientInactiveTitle=23 47 127
+GrayText=93 114 151
+Hilight=255 127 127
+HilightText=0 0 0
+HotTrackingColor=255 127 127
+InactiveBorder=42 51 68
+InactiveTitle=93 114 151
+InactiveTitleText=0 0 0
+InfoText=255 255 255
+InfoWindow=0 0 0
+Menu=42 51 68
+MenuBar=42 51 68
+MenuHilight=255 127 127
+MenuText=255 255 255
+Scrollbar=21 25 34
+TitleText=0 0 0
+Window=42 51 68
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

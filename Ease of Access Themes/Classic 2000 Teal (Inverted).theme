@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Teal (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=63 63 63
+ActiveTitle=255 127 127
+AppWorkSpace=127 127 127
+Background=255 191 191
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=63 63 63
+ButtonHilight=0 0 0
+ButtonLight=63 63 63
+ButtonShadow=127 127 127
+ButtonText=255 255 255
+GradientActiveTitle=255 51 39
+GradientInactiveTitle=103 55 71
+GrayText=127 127 127
+Hilight=255 127 127
+HilightText=0 0 0
+HotTrackingColor=255 127 127
+InactiveBorder=63 63 63
+InactiveTitle=127 127 127
+InactiveTitleText=0 4 15
+InfoText=255 255 255
+InfoWindow=0 0 0
+Menu=63 63 63
+MenuBar=63 63 63
+MenuHilight=255 127 127
+MenuText=255 255 255
+Scrollbar=63 63 63
+TitleText=0 0 0
+Window=63 63 63
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

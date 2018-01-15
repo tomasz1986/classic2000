@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Lilac (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=81 87 38
+ActiveTitle=165 177 78
+AppWorkSpace=165 177 78
+Background=255 255 255
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=81 87 38
+ButtonHilight=39 42 19
+ButtonLight=81 87 38
+ButtonShadow=165 177 78
+ButtonText=255 255 255
+GradientActiveTitle=73 112 52
+GradientInactiveTitle=71 75 47
+GrayText=165 177 78
+Hilight=165 177 78
+HilightText=0 0 0
+HotTrackingColor=165 177 78
+InactiveBorder=81 87 38
+InactiveTitle=127 127 127
+InactiveTitleText=0 0 0
+InfoText=255 255 255
+InfoWindow=0 0 0
+Menu=81 87 38
+MenuBar=81 87 38
+MenuHilight=165 177 78
+MenuText=255 255 255
+Scrollbar=81 87 38
+TitleText=0 0 0
+Window=81 87 38
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Pumpkin (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=19 42 98
+ActiveTitle=40 90 208
+AppWorkSpace=10 21 48
+Background=189 255 189
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=19 42 98
+ButtonHilight=10 21 48
+ButtonLight=19 42 98
+ButtonShadow=40 90 208
+ButtonText=255 255 255
+GradientActiveTitle=31 51 119
+GradientInactiveTitle=47 51 111
+GrayText=40 90 208
+Hilight=127 255 127
+HilightText=0 0 0
+HotTrackingColor=40 90 208
+InactiveBorder=19 42 98
+InactiveTitle=95 95 91
+InactiveTitleText=10 21 48
+InfoText=127 255 127
+InfoWindow=0 0 0
+Menu=19 42 98
+MenuBar=19 42 98
+MenuHilight=127 255 127
+MenuText=255 255 255
+Scrollbar=10 21 48
+TitleText=0 0 0
+Window=19 42 98
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

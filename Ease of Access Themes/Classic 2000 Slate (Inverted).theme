@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Slate (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=98 70 55
+ActiveTitle=170 127 104
+AppWorkSpace=189 189 189
+Background=190 190 190
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=98 70 55
+ButtonHilight=49 35 28
+ButtonLight=98 70 55
+ButtonShadow=170 127 104
+ButtonText=255 255 255
+GradientActiveTitle=119 71 39
+GradientInactiveTitle=95 67 55
+GrayText=170 127 104
+Hilight=170 127 104
+HilightText=0 0 0
+HotTrackingColor=170 127 104
+InactiveBorder=98 70 55
+InactiveTitle=127 127 127
+InactiveTitleText=63 63 63
+InfoText=255 255 255
+InfoWindow=0 0 0
+Menu=98 70 55
+MenuBar=98 70 55
+MenuHilight=170 127 104
+MenuText=255 255 255
+Scrollbar=49 35 28
+TitleText=0 0 0
+Window=98 70 55
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

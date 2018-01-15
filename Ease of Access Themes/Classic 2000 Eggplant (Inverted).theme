@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Eggplant (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=111 79 87
+ActiveTitle=167 127 135
+AppWorkSpace=127 127 127
+Background=191 255 191
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=111 79 87
+ButtonHilight=55 39 39
+ButtonLight=111 79 87
+ButtonShadow=167 127 135
+ButtonText=255 255 255
+GradientActiveTitle=124 180 124
+GradientInactiveTitle=52 66 45
+GrayText=167 127 135
+Hilight=167 127 135
+HilightText=0 0 0
+HotTrackingColor=167 127 135
+InactiveBorder=111 79 87
+InactiveTitle=111 79 87
+InactiveTitleText=167 127 135
+InfoText=127 255 127
+InfoWindow=0 0 0
+Menu=111 79 87
+MenuBar=111 79 87
+MenuHilight=167 127 135
+MenuText=255 255 255
+Scrollbar=111 79 87
+TitleText=0 0 0
+Window=111 79 87
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Spruce (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=93 55 86
+ActiveTitle=166 104 155
+AppWorkSpace=47 28 44
+Background=222 192 222
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=93 55 86
+ButtonHilight=47 28 44
+ButtonLight=93 55 86
+ButtonShadow=166 104 155
+ButtonText=255 255 255
+GradientActiveTitle=103 55 23
+GradientInactiveTitle=87 51 79
+GrayText=166 104 155
+Hilight=166 104 155
+HilightText=0 0 0
+HotTrackingColor=166 104 155
+InactiveBorder=93 55 86
+InactiveTitle=127 127 127
+InactiveTitleText=47 28 44
+InfoText=255 255 255
+InfoWindow=0 0 0
+Menu=93 55 86
+MenuBar=93 55 86
+MenuHilight=166 104 155
+MenuText=255 255 255
+Scrollbar=47 28 44
+TitleText=0 0 0
+Window=93 55 86
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

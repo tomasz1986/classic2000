@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Marine (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=119 63 71
+ActiveTitle=255 255 127
+AppWorkSpace=180 114 123
+Background=211 177 184
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=119 63 71
+ButtonHilight=55 31 39
+ButtonLight=119 63 71
+ButtonShadow=183 111 119
+ButtonText=255 255 255
+GradientActiveTitle=231 75 63
+GradientInactiveTitle=135 51 39
+GrayText=183 111 119
+Hilight=255 255 127
+HilightText=0 0 0
+HotTrackingColor=255 255 127
+InactiveBorder=119 63 71
+InactiveTitle=183 111 119
+InactiveTitleText=63 63 63
+InfoText=255 255 255
+InfoWindow=55 31 39
+Menu=119 63 71
+MenuBar=119 63 71
+MenuHilight=255 255 127
+MenuText=255 255 255
+Scrollbar=55 31 39
+TitleText=0 0 0
+Window=119 63 71
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Brick (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=61 64 90
+ActiveTitle=127 255 255
+AppWorkSpace=30 31 45
+Background=189 255 255
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=61 64 90
+ButtonHilight=30 31 45
+ButtonLight=61 64 90
+ButtonShadow=114 118 158
+ButtonText=255 255 255
+GradientActiveTitle=79 139 191
+GradientInactiveTitle=55 71 143
+GrayText=114 118 158
+Hilight=114 118 158
+HilightText=0 0 0
+HotTrackingColor=127 255 255
+InactiveBorder=61 64 90
+InactiveTitle=114 118 158
+InactiveTitleText=30 31 45
+InfoText=127 255 255
+InfoWindow=30 31 45
+Menu=61 64 90
+MenuBar=61 64 90
+MenuHilight=114 118 158
+MenuText=255 255 255
+Scrollbar=30 31 45
+TitleText=30 31 45
+Window=61 64 90
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Windows Standard (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=43 47 55
+ActiveTitle=245 219 149
+AppWorkSpace=127 127 127
+Background=197 145 90
+ButtonAlternateFace=74 74 74
+ButtonDkShadow=191 191 191
+ButtonFace=43 47 55
+ButtonHilight=0 0 0
+ButtonLight=43 47 55
+ButtonShadow=127 127 127
+ButtonText=255 255 255
+GradientActiveTitle=89 53 15
+GradientInactiveTitle=63 63 63
+GrayText=127 127 127
+Hilight=245 219 149
+HilightText=0 0 0
+HotTrackingColor=255 255 127
+InactiveBorder=43 47 55
+InactiveTitle=127 127 127
+InactiveTitleText=43 47 55
+InfoText=255 255 255
+InfoWindow=0 0 30
+Menu=43 47 55
+MenuBar=43 47 55
+MenuHilight=245 219 149
+MenuText=255 255 255
+Scrollbar=43 47 55
+TitleText=0 0 0
+Window=43 47 55
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3

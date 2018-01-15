@@ -1,0 +1,49 @@
+[Theme]
+DisplayName=Rose (Inverted)
+
+[Control Panel\Colors]
+ActiveBorder=48 80 72
+ActiveTitle=96 159 143
+AppWorkSpace=96 159 143
+Background=127 127 127
+ButtonAlternateFace=63 63 63
+ButtonDkShadow=255 255 255
+ButtonFace=48 80 72
+ButtonHilight=24 39 35
+ButtonLight=48 80 72
+ButtonShadow=96 159 143
+ButtonText=255 255 255
+GradientActiveTitle=39 51 47
+GradientInactiveTitle=47 43 47
+GrayText=96 159 143
+Hilight=96 159 143
+HilightText=0 0 0
+HotTrackingColor=96 159 143
+InactiveBorder=48 80 72
+InactiveTitle=95 95 91
+InactiveTitleText=130 130 130
+InfoText=255 255 255
+InfoWindow=0 0 0
+Menu=48 80 72
+MenuBar=48 80 72
+MenuHilight=96 159 143
+MenuText=255 255 255
+Scrollbar=48 80 72
+TitleText=0 0 0
+Window=48 80 72
+WindowFrame=255 255 255
+WindowText=255 255 255
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=10
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+HighContrast=3
