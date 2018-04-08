@@ -4,7 +4,7 @@
 
 <h2>Installation</h2>
 
-<p>Copy all .theme files from the "Ease of Access Themes" folder to "%WINDIR%\Resources\Ease of Access Themes". You will then be able to use the new themes in <a href="//support.microsoft.com/help/13862/windows-use-high-contrast-mode">the same way as stock high contrast themes</a>.</p>
+<p>Copy all .theme files from the "Ease of Access Themes" folder to "%WINDIR%\Resources\Ease of Access Themes". You will then be able to use the new themes in <a href="//support.microsoft.com/help/13862/windows-use-high-contrast-mode">the same way as stock high contrast themes</a>. In order to reduce the high contrast themes' default thick borders, apply the "Classic 2000.reg" file each time after changing a theme.</p>
 
 <h2>Themes</h2>
 
