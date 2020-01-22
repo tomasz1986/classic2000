@@ -1,6 +1,6 @@
 <h1>Classic 2000</h1>
 
-<p>Classic 2000 is a collection of themes for Windows 8.1 and 10. The themes are based on the classic-style colour schemes from Windows 2000. They are also <a href="https://docs.microsoft.com/windows/win32/controls/supporting-high-contrast-themes">high contrast</a> with all its <a href="https://docs.microsoft.com/windows/uwp/design/accessibility/high-contrast-themes">limitations</a>). Unfortunately, this is the only method to freely customize the colours in Windows 8 and later (without using 3rd party tools or system file modifications).</p>
+<p>Classic 2000 is a collection of themes for Windows 8.1 and 10. The themes are based on the classic-style colour schemes from Windows 2000. They are also <a href="https://docs.microsoft.com/windows/win32/controls/supporting-high-contrast-themes">high contrast</a> with all its <a href="https://docs.microsoft.com/windows/uwp/design/accessibility/high-contrast-themes">limitations</a>. Unfortunately, this is the only method to freely customize the colours in Windows 8 and later without using 3rd party tools or system file modifications.</p>
 
 <h2>Installation</h2>
 
@@ -129,11 +129,11 @@
   </li>
 
   <li>InactiveTitleText illegible contrast
-    <p>The actual colour of InactiveTitleText may not match the value declared in its .theme file. The text is usually darker and much less contrasty, and as a result more difficult to read. To overcome this issue you must set its value to a brighter colour than in the original theme, e.g. "InactiveTitleText=255 255 255" instead of "InactiveTitleText=212 208 200" in case of Windows Standard.</p>
+    <p>The actual colour of InactiveTitleText may not match the value declared in its .theme file. The text is usually darker and much less contrasty, and as a result more difficult to read. To overcome this issue you must set its value to a brighter colour than in the original theme, e.g. "InactiveTitleText=255 255 255" instead of "InactiveTitleText=212 208 200" in the case of Windows Standard.</p>
   </li>
 
   <li>Window colour limitation
-    <p>In the original Windows classic themes it was possible to define Window and 3D Objects (buttons, menu, etc.) colours separately. High contrast themes do not have this option. Therefore, in order to keep a consistent look, both Window and 3D Object must use the exact same colour, e.g. "Window=212 208 200" instead of "Window=255 255 255" in case of Windows Standard.</p>
+    <p>In the original Windows classic themes it was possible to define Window and 3D Objects (buttons, menu, etc.) colours separately. High contrast themes do not have this option. Therefore, in order to keep a consistent look, both Window and 3D Object must use the exact same colour, e.g. "Window=212 208 200" instead of "Window=255 255 255" in the case of Windows Standard.</p>
   </li>
 </ul>
 
