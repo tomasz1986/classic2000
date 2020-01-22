@@ -1,10 +1,10 @@
 <h1>Classic 2000</h1>
 
-<p>Classic 2000 is a collection of themes for Windows 8.1 and 10. The themes are based on the classic-style colour schemes from Windows 2000. They are also <a href="//msdn.microsoft.com/library/windows/desktop/hh404233%28v=vs.85%29.aspx">high contrast</a> with all its <a href="//docs.microsoft.com/windows/uwp/design/accessibility/high-contrast-themes">limitations</a>). Unfortunately, this is the only method to freely customize the colours in Windows 8 and later (without using 3rd party tools or system file modifications).</p>
+<p>Classic 2000 is a collection of themes for Windows 8.1 and 10. The themes are based on the classic-style colour schemes from Windows 2000. They are also <a href="https://docs.microsoft.com/windows/win32/controls/supporting-high-contrast-themes">high contrast</a> with all its <a href="https://docs.microsoft.com/windows/uwp/design/accessibility/high-contrast-themes">limitations</a>). Unfortunately, this is the only method to freely customize the colours in Windows 8 and later (without using 3rd party tools or system file modifications).</p>
 
 <h2>Installation</h2>
 
-<p>Copy all *.theme files from the "Ease of Access Themes" folder to "%WINDIR%\Resources\Ease of Access Themes". You will then be able to use the new themes in <a href="//support.microsoft.com/help/13862/windows-use-high-contrast-mode">the same way as stock high contrast themes</a>. In order to reduce the high contrast themes' default thick borders, apply the "Classic 2000.reg" file each time after changing a theme, and then log out and in again to see the changes.</p>
+<p>Copy all *.theme files from the "Ease of Access Themes" folder to "%WINDIR%\Resources\Ease of Access Themes". You will then be able to use the new themes in <a href="https://support.microsoft.com/help/13862/windows-use-high-contrast-mode">the same way as stock high contrast themes</a>. In order to reduce the high contrast themes' default thick borders, apply the "Classic 2000.reg" file each time after changing a theme, and then log out and in again to see the changes.</p>
 
 <h2>Themes</h2>
 
@@ -115,8 +115,8 @@
 <p>Use the following resources to further modify the themes to your liking.</p>
 
 <ul>
-  <li><a href="//msdn.microsoft.com/library/windows/desktop/bb773190%28v=vs.85%29.aspx">http://msdn.microsoft.com/library/windows/desktop/bb773190%28v=vs.85%29.aspx</a></li>
-  <li><a href="//neowin.net/forum/topic/624901-windows-colors-explained">http://neowin.net/forum/topic/624901-windows-colors-explained</a></li>
+  <li><a href="https://docs.microsoft.com/windows/win32/controls/themesfileformat-overview">https://docs.microsoft.com/windows/win32/controls/themesfileformat-overview</a></li>
+  <li><a href="https://neowin.net/forum/topic/624901-windows-colors-explained">https://neowin.net/forum/topic/624901-windows-colors-explained</a></li>
 </ul>
 
 <h2>Bugs &amp; Issues</h2>
